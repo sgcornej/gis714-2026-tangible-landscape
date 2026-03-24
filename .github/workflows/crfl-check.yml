@@ -16,5 +16,5 @@ jobs:
       - name: Checkout repository contents
         uses: actions/checkout@v2
 
-      - name: Check endings (fail for CRLF, pass for LF)
-        uses: erclu/check-crlf@v1
+      - name: Check CRLF line endings
+        uses: gi-org-pl/check-crlf-action@v1.0.2

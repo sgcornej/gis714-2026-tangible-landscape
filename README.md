@@ -1,4 +1,4 @@
-# NCSU GIS 714 Spring 2025: Tangible Landscape
+# NCSU GIS 714 Spring 2026: Tangible Landscape
 
 [Notebook Tutorial and Assignment Directions](https://github.com/ncsu-geoforall-lab/GIS714-assignments/tree/main/Tangible_Landscape/)
 
